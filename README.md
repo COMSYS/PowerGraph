@@ -10,6 +10,7 @@ The quick open button displays the files that lie in the "records" folder. When 
 
 More information about the hardware and the project can be found [here](https://www.comsys.rwth-aachen.de/short/powergraph).
 
+Copyright (C) 2014-2015, Roman Bartaschewitsch, <roman.bartaschewitsch@rwth-aachen.de> <br>
 Copyright (C) 2014-2015, Torsten Zimmermann, <zimmermann@comsys.rwth-aachen.de> <br>
 Copyright (C) 2014-2015, Jan Rüth, <rueth@comsys.rwth-aachen.de> <br>
 Copyright (C) 2014-2015, Chair of Computer Science 4, RWTH Aachen University,<br>http://www.comsys.rwth-aachen.de
